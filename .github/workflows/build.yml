@@ -59,3 +59,5 @@ jobs:
         with:
           name: firmware
           path: kyria_right_nice_nano_v2.uf2
+      - board: nice_nano_v2
+          shield: settings_reset
